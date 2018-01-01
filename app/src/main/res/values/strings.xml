@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecyclingFacts</string>
+    <string name = "give_me_what_you_have">اعطنى ما عندك</string>
+    <string name="factTextView">سيتم اظهار مجموعه من الحقائق المهمه</string>
+    <string name="Recycling_Facts_Activity_Title">حقائق اعاده التدوير</string>
+    <string name="Button_Pressed">تم الضغط على الزر</string>
+    <string name="Button_Run">تم تشغيل التطبيق</string>
+
+    <string name="fact1"> 95% من معلومات العالم لاتزال مخزنه على الورق واغلبها لاتتم مشاهدته مرة اخرى</string>
+    <string name="fact2"> اعادة تدوير قاروة بلاستيك يوفر طاقة كافية لاضاءة مصباح بقدرة 60 واط لمدة 6 ساعات</string>
+    <string name="fact3">الاف المخلوقات البحرية تموت بسبب ابتلاعها اكياس البلاستيك التي تشبه قنديل البحر</string>
+    <string name="fact4"> في كل عام يرمي الامريكان قوارير وزجاجات كافية لوصول القمر والعودة اليه 20 مره</string>
+    <string name="fact5"> اعادة تدوير طن من البلاستيك يمكن ان يوفر حوالي 2000 غالون من البنزي</string>
+    <string name="fact6"> بداية من عام 2015 جميع سكان نيويورك عليهم اعادة تدوير الاجهزة الالكترونية والا سيواجهون غرامه مقدارها 100 دولا</string>
+    <string name="fact7"> اعادة تدوير علبة المنيوم يمكن ان يوفر طاقة تكفي لتشغيل تلفاز لساعتين</string>
+    <string name="fact8"> اعادة تدوير طن من الورق يحافظ على 17 شجره</string>
+    <string name="fact9"> اعادة تدوير علبة المنيوم يمكن ان يعيدها الى رف متجر خلال 60 يوم</string>
+    
+    <string-array name="facts">
+        <item>"@string/fact1"></item>
+        <item>"@string/fact2"></item>
+        <item>"@string/fact3"></item>
+        <item>"@string/fact4"></item>
+        <item>"@string/fact5"></item>
+        <item>"@string/fact6"></item>
+        <item>"@string/fact7"></item>
+        <item>"@string/fact8"></item>
+        <item>"@string/fact9"></item>
+
+    </string-array>
+</resources>
